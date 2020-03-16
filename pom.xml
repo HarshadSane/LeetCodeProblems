@@ -8,6 +8,7 @@
 	<groupId>com.java.solutions</groupId>
 	<artifactId>LeetCodeProblems</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>jar</packaging>
 
 	<name>LeetCodeProblems</name>
 	<!-- FIXME change it to the project's website -->
